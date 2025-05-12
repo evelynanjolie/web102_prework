@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] CSS colors have been changes to create unique color palette :>
+* [ ] CSS colors have been changed to create unique color palette :>
 
 ## Video Walkthrough
 
